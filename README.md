@@ -1,5 +1,4 @@
-# EDA-RH-IBM
-Análise de atrição, desempenho e retenção de funcionários da IBM
+# Análise de atrição, desempenho e retenção de funcionários
 
 Ter a capacidade de contratar, treinar e manter um corpo de funcionários competente e capacitado é uma das peças mais importantes dentro do esquema de uma empresa. Para estimular seus talentos a permanecerem exercendo suas atividades atuais, a empresa deve elaborar uma estratégia de retenção de funcionários.
 
